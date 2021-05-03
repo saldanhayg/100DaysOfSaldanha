@@ -28,7 +28,9 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal
 * [Dia 01  /  Publicação 01  - Projeto - Construindo o seu primeiro jogo de naves](https://github.com/saldanhayg/Jogo-de-Naves-DIO)
 * [Dia 01  /  Publicação 02  - Projeto - Criando seu jogo no estilo Space Shooter](https://github.com/saldanhayg/Jogo-no-estilo-Space-Shooter-DIO)
 
-
+<br>
+<br>
+<br>
 
 Gostou da ideia? [Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
 
