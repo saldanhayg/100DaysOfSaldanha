@@ -21,26 +21,30 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal
 
 ## 📅 Publicações 
 
-##### 01
+### 01 dia
 
-* [Dia 01  /  Publicação 01  - Projeto - Construindo o seu primeiro jogo de naves](https://github.com/saldanhayg/Jogo-de-Naves-DIO)
-* [Dia 01  /  Publicação 02  - Projeto - Criando seu jogo no estilo Space Shooter](https://github.com/saldanhayg/Jogo-no-estilo-Space-Shooter-DIO)
+* [Publicação 01  - Projeto - Construindo o seu primeiro jogo de naves](https://github.com/saldanhayg/Jogo-de-Naves-DIO)
+* [Publicação 02  - Projeto - Criando seu jogo no estilo Space Shooter](https://github.com/saldanhayg/Jogo-no-estilo-Space-Shooter-DIO)
 
-##### 02
-* [Dia 02  /  Publicação 01  - Bootcamp	JavaScript Game Developer](https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO)
+### 02 dia
+* [Publicação 01  - Bootcamp	JavaScript Game Developer](https://github.com/saldanhayg/Bootcamp_JavaScript_Game_Developer_DIO)
 
-#### 3
-* [Dia 03  /  Publicação 01  - Projeto - Requisitando dados de uma API de criptomoedas](https://github.com/saldanhayg/Projeto_Requisitando_dados_API_criptomoedas)
-* [Dia 03  /  Publicação 02  - Projeto - Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo](https://github.com/saldanhayg/PWA_React_mapear_dados_COVID19)
-* [Dia 03  /  Publicação 03  - Bootcamp - SPTech Desenvolvimento Front-end](https://github.com/saldanhayg/Bootcamp_SPTech_Desenvolvimento_Front-end_DIO)
-* [Dia 04  /  Publicação 01  - Curso - Dashboard com Tableau: Visualize e analise os seus dados](https://github.com/saldanhayg/Dashboard_Tableau_Visualize_analise_seus_dados)
+### 03 dia
+* [Publicação 01  - Projeto - Requisitando dados de uma API de criptomoedas](https://github.com/saldanhayg/Projeto_Requisitando_dados_API_criptomoedas)
+* [Publicação 02  - Projeto - Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo](https://github.com/saldanhayg/PWA_React_mapear_dados_COVID19)
+* [Publicação 03  - Bootcamp - SPTech Desenvolvimento Front-end](https://github.com/saldanhayg/Bootcamp_SPTech_Desenvolvimento_Front-end_DIO)
+### 04 dia
+* [Publicação 01  - Curso - Dashboard com Tableau: Visualize e analise os seus dados](https://github.com/saldanhayg/Dashboard_Tableau_Visualize_analise_seus_dados)
 * [Dia 04  /  Publicação 02  - Curso - Introdução ao Tableau 2020: Fácil e Simples](https://github.com/saldanhayg/Introducao_Tableau_2020-Udemy)
-* [Dia 05  /  Publicação 01  - Curso - Tableau 2020 para Iniciantes](https://github.com/saldanhayg/Tableau_2020_para_Iniciantes)
+#### 05 dia
+* [Publicação 01  - Curso - Tableau 2020 para Iniciantes](https://github.com/saldanhayg/Tableau_2020_para_Iniciantes)
 
 <br>
 <br>
 <br>
+
 [Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
+
 <br>
 <br> 
 🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏  
