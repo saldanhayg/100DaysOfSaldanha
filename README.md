@@ -36,9 +36,34 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal
 ### 04 dia
 * [Publicação 01  - Curso - Dashboard com Tableau: Visualize e analise os seus dados](https://github.com/saldanhayg/Dashboard_Tableau_Visualize_analise_seus_dados)
 * [Dia 04  /  Publicação 02  - Curso - Introdução ao Tableau 2020: Fácil e Simples](https://github.com/saldanhayg/Introducao_Tableau_2020-Udemy)
-#### 05 dia
+### 05 dia
 * [Publicação 01  - Curso - Tableau 2020 para Iniciantes](https://github.com/saldanhayg/Tableau_2020_para_Iniciantes)
-
+### 06 dia
+* [Publicação 01  - Power BI Desktop - Pensar](https://github.com/saldanhayg/Curso_Power_BI-Pensar)
+### 07 dia
+* [Publicação 01  - Power BI Desktop: Tratamento de dados no Power Query](https://github.com/saldanhayg/Power_BI_Tratamento_de_dados_no_Power_Query)
+* [Publicação 02  - Power BI Desktop: Entendendo as fórmulas DAX](https://github.com/saldanhayg/Power_BI_Entendendo_formulas_DAX)
+* [Publicação 03  - Power BI: Explorando recursos visuais ](https://github.com/saldanhayg/Power_BI_Explorando_recursos_visuais)
+### 08 dia
+* [Publicação 01  - Imersão Power BI - Hastag	Hastag](https://github.com/saldanhayg/Intensivao_Power_BI_Hastag-Treinamentos)
+### 09 dia
+* [Publicação 01  - Crie um Dashboard em Power BI do ZERO (Caso Prático)	Udemy](https://github.com/saldanhayg/Curso_Power_BI-Pensar)
+### 10 dia
+* [Publicação 01  - Power BI para Todos: Fácil e Simples!	Udemy](https://github.com/saldanhayg/Curso_Power_BI_para_Todos_Udemy)
+### 11 dia
+* [Publicação 01  - Semana do Power BI -Karine Lago	DataB](https://github.com/saldanhayg/Semana_Power_BI_DATAB_Abr_21)
+### 12 dia
+* [Publicação 01  - Expedição Power BI	Universo BI](https://github.com/saldanhayg/Expedicao_Power_BI)
+### 13 dia
+* [Publicação 01  - Jornada Power BI #4	Tulio Melibeu](https://github.com/saldanhayg/Jornada_Domine_Power_BI_4)
+* [Publicação 02  - Intensivão de Power BI - Maio 2021	Hastag](https://github.com/saldanhayg/Intensivao_Power_BI_Hastag-Maio_21)
+* [Publicação 03  - Semana do Dashboard - Maio 2021	Minhas Planilhas](https://github.com/saldanhayg/Semana_do_Dashboard_Power_BI)
+### 14 dia
+* [Publicação 01  - Flexbox: Posicione elementos na tela](https://github.com/saldanhayg/Flexbox_Posicione_elementos_tela)
+* [Publicação 01  - Tarefas em background utilizando Node.js e Redis](https://github.com/saldanhayg/Tarefas_background_utilizando_Node-js_Redis)
+### 15 dia
+* [Publicação 01  - Construindo sexy APIs usando arquitetura serverless](https://github.com/saldanhayg/Construindo_Sexy_APIs_arquitetura_serverless)				
+* [Publicação 02  - Construindo um ChatbotFit no Telegram com JavaScript e NodeJS](https://github.com/saldanhayg/Projeto_ChatbotFit_Telegram_com_JavaScript_NodeJS)							
 <br>
 <br>
 <br>
