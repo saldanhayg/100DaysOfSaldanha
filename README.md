@@ -63,7 +63,30 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal
 * [Publicação 01  - Tarefas em background utilizando Node.js e Redis](https://github.com/saldanhayg/Tarefas_background_utilizando_Node-js_Redis)
 ### 15 dia
 * [Publicação 01  - Construindo sexy APIs usando arquitetura serverless](https://github.com/saldanhayg/Construindo_Sexy_APIs_arquitetura_serverless)				
-* [Publicação 02  - Construindo um ChatbotFit no Telegram com JavaScript e NodeJS](https://github.com/saldanhayg/Projeto_ChatbotFit_Telegram_com_JavaScript_NodeJS)							
+* [Publicação 02  - Construindo um ChatbotFit no Telegram com JavaScript e NodeJS](https://github.com/saldanhayg/Projeto_ChatbotFit_Telegram_com_JavaScript_NodeJS)	
+### 16 dia
+* [Publicação 01  - Introdução ao SQL com Microsoft SQL Server 2017](https://tinyurl.com/3fbmz56z)
+### 17 dia
+* [Publicação 01  - Consultas avancadas com Microsoft SQL Server 2017](https://tinyurl.com/9a2wb5vz)
+### 18 dia
+* [Publicação 01  - Manipulação de dados com Microsoft SQL Server 2017](https://tinyurl.com/9a2wb5vz)
+### 19 dia
+* [Publicação 01  - T-SQL com Microsoft SQL Server 2017](https://tinyurl.com/v8x56hxa)
+### 20 dia
+* [Publicação 01  - Administração do Microsoft SQL Server 2017](https://tinyurl.com/6ffzuav)
+### 21 dia
+* [Publicação 01  - Modelos de ETL - Pentaho Data Integration](https://tinyurl.com/n3epwsdz)
+### 22 dia
+* [Publicação 01  - Transformação com ETL - Pentaho Data Integration](https://tinyurl.com/rfs72vy6)
+### 23 dia
+* [Publicação 01  - OLAP com Pentaho - Construção do Data Mart](https://tinyurl.com/76fw6d9n)
+### 24 dia
+* [Publicação 01  - Consultas Multidimensionais - MDX com Pentaho](https://tinyurl.com/6arz6jb6)
+### 25 dia
+* [Publicação 01  - Report Analysis com Pentaho - Gerando relatórios empresariais ](https://tinyurl.com/2ujnj4t5)
+### 26 dia
+* [Publicação 01  - Dashboard com Pentaho - Visualize e analise os dados](https://tinyurl.com/erka5ez)
+
 <br>
 <br>
 <br>
