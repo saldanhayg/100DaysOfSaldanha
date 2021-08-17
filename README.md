@@ -86,7 +86,12 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal
 * [Publicação 01  - Report Analysis com Pentaho - Gerando relatórios empresariais ](https://tinyurl.com/2ujnj4t5)
 ### 26 dia
 * [Publicação 01  - Dashboard com Pentaho - Visualize e analise os dados](https://tinyurl.com/erka5ez)
-
+### 27 dia
+* [Publicação 01  - SQL Server- Persistindo e recuperando documentos JSON](https://tinyurl.com/7wzj7jmh)
+### 28 dia
+* [Publicação 01  - SQL Server e XML: Persistindo XML de maneira eficiente](https://github.com/saldanhayg/SQL_SERVER_PERSISTINDO_XML)
+### 29 dia
+* [Publicação 01  - Bootcamp .Net Fundamentals](https://github.com/saldanhayg/Bootcamp_Dot_Net_Fundamental)
 <br>
 <br>
 <br>
