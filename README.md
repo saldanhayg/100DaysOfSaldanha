@@ -60,7 +60,7 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal<br>
 * [Publicação 03  - IMERSÃO _ Semana do Dashboard - Maio 2021	Minhas Planilhas](https://github.com/saldanhayg/Semana_do_Dashboard_Power_BI)
 ### 14 dia
 * [Publicação 01  - CURSO _ Flexbox: Posicione elementos na tela](https://github.com/saldanhayg/Flexbox_Posicione_elementos_tela)
-* [Publicação 01  - CURSO _ Tarefas em background utilizando Node.js e Redis](https://github.com/saldanhayg/Tarefas_background_utilizando_Node-js_Redis)
+* [Publicação 02  - CURSO _ Tarefas em background utilizando Node.js e Redis](https://github.com/saldanhayg/Tarefas_background_utilizando_Node-js_Redis)
 ### 15 dia
 * [Publicação 01  - CURSO _ Construindo sexy APIs usando arquitetura serverless](https://github.com/saldanhayg/Construindo_Sexy_APIs_arquitetura_serverless)				
 * [Publicação 02  - PROJETO _ Construindo um ChatbotFit no Telegram com JavaScript e NodeJS](https://github.com/saldanhayg/Projeto_ChatbotFit_Telegram_com_JavaScript_NodeJS)	
@@ -92,6 +92,12 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal<br>
 * [Publicação 01  - CURSO _ SQL Server e XML: Persistindo XML de maneira eficiente](https://github.com/saldanhayg/SQL_SERVER_PERSISTINDO_XML)
 ### 29 dia
 * [Publicação 01  - BOOTCAMP _ .Net Fundamentals](https://github.com/saldanhayg/Bootcamp_Dot_Net_Fundamental)
+### 30 dia
+* [Publicação 01  - PROJETO _ PYTHON _ Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/saldanhayg/ProJeto_Criacao_Pacotes_de_Imagens_Python)
+* [Publicação 02  - PROJETO _ PYTHON _ Desenvolvendo um Port Scanner em Python](https://github.com/saldanhayg/Projeto_Python_Port_Scanner)
+* [Publicação 03  - PROJETO _ AWS _ Conhecendo o AWS SageMaker para tarefas de Machine Learning](https://github.com/saldanhayg/Projeto_AWS_SageMaker_tarefas_Machine_Learning)
+* [Publicação 04  - PROJETO _ AWS _ Criando seu Ecossistema de Big Data na Nuvem](https://github.com/saldanhayg/Ecossistema_AWS_Big_Data)
+* [Publicação 05  - PROJETO _ PYTHON _ Análise de dados com Python e Pandas](https://github.com/saldanhayg/Projeto_DIO_Analise_Dados-com-Python_Pandas)
 <br>
 <br>
 <br>
