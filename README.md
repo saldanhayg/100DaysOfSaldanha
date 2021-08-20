@@ -93,7 +93,7 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal<br>
 ### 29 dia
 * [Publicação 01  - BOOTCAMP _ .Net Fundamentals](https://github.com/saldanhayg/Bootcamp_Dot_Net_Fundamental)
 ### 30 dia
-* [Publicação 01  - PROJETO _ PYTHON _ Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/saldanhayg/ProJeto_Criacao_Pacotes_de_Imagens_Python)
+* [Publicação 01  - PROJETO _ PYTHON _ Descomplicando a criação de pacotes de processamento de imagens](https://github.com/saldanhayg/ProJeto_Criacao_Pacotes_de_Imagens_Python)
 * [Publicação 02  - PROJETO _ PYTHON _ Desenvolvendo um Port Scanner em Python](https://github.com/saldanhayg/Projeto_Python_Port_Scanner)
 * [Publicação 03  - PROJETO _ AWS _ Conhecendo o AWS SageMaker para tarefas de Machine Learning](https://github.com/saldanhayg/Projeto_AWS_SageMaker_tarefas_Machine_Learning)
 * [Publicação 04  - PROJETO _ AWS _ Criando seu Ecossistema de Big Data na Nuvem](https://github.com/saldanhayg/Ecossistema_AWS_Big_Data)
