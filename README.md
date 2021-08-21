@@ -97,7 +97,6 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal<br>
 * [Publicação 02  - PROJETO _ PYTHON _ Desenvolvendo um Port Scanner em Python](https://github.com/saldanhayg/Projeto_Python_Port_Scanner)
 * [Publicação 03  - PROJETO _ AWS _ Conhecendo o AWS SageMaker para tarefas de Machine Learning](https://github.com/saldanhayg/Projeto_AWS_SageMaker_tarefas_Machine_Learning)
 * [Publicação 04  - PROJETO _ AWS _ Criando seu Ecossistema de Big Data na Nuvem](https://github.com/saldanhayg/Ecossistema_AWS_Big_Data)
-* [Publicação 05  - PROJETO _ PYTHON _ Análise de dados com Python e Pandas](https://github.com/saldanhayg/Projeto_DIO_Analise_Dados-com-Python_Pandas)
 <br>
 <br>
 <br>
