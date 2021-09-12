@@ -97,6 +97,47 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal<br>
 * [Publicação 02  - PROJETO _ PYTHON _ Desenvolvendo um Port Scanner em Python](https://github.com/saldanhayg/Projeto_Python_Port_Scanner)
 * [Publicação 03  - PROJETO _ AWS _ Conhecendo o AWS SageMaker para tarefas de Machine Learning](https://github.com/saldanhayg/Projeto_AWS_SageMaker_tarefas_Machine_Learning)
 * [Publicação 04  - PROJETO _ AWS _ Criando seu Ecossistema de Big Data na Nuvem](https://github.com/saldanhayg/Ecossistema_AWS_Big_Data)
+
+### 31 dia
+
+Banco Carrefour Data Engineer<br>
+* [Publicação 01  - Linux: A introdução ao sistema operacional](https://tinyurl.com/5f7sa42h)
+* [Publicação 02  - Shell script - Manipulando Arquivos](https://tinyurl.com/54abzfux)
+* [Publicação 03  - Introdução a Engenharia de Dados](https://tinyurl.com/h6jthd4w)
+* [Publicação 04  - Introdução a Ciência de Dados](https://tinyurl.com/t8dnhejw)
+* [Publicação 05  - Introdução ao MongoDB e Bancos de Dados NoSQL](https://tinyurl.com/4fkxkhfh)
+* [Publicação 06  - Introdução à programação com Python](https://tinyurl.com/wjzeys3y)
+
+### 32 dia
+
+Banco Carrefour Data Engineer<br>
+* [Publicação 01  - Segurança da informacao com Python](https://tinyurl.com/yfbsdyft)
+* [Publicação 02  - Fundamentos de ETL com Python](https://tinyurl.com/yhaxa99p)
+* [Publicação 03  - Monitoramento de clusters Hadoop de alto nivel com HDFS e YARN](https://tinyurl.com/f23jrp7f)
+* [Publicação 04  - Orquestrando ambientes de Big Data distribuidos com Zookeeper, Yarn e Sqoop](https://tinyurl.com/u9bbhn34)
+* [Publicação 05  - Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala](https://tinyurl.com/2hdmakk9)	
+	
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
 <br>
 <br>
 <br>
