@@ -100,7 +100,7 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal<br>
 
 ### 31 dia
 
-Banco Carrefour Data Engineer<br>
+Faz parte do Bootcamp Banco Carrefour Data Engineer<br>
 * [Publicação 01  - Linux: A introdução ao sistema operacional](https://tinyurl.com/5f7sa42h)
 * [Publicação 02  - Shell script - Manipulando Arquivos](https://tinyurl.com/54abzfux)
 * [Publicação 03  - Introdução a Engenharia de Dados](https://tinyurl.com/h6jthd4w)
@@ -110,33 +110,24 @@ Banco Carrefour Data Engineer<br>
 
 ### 32 dia
 
-Banco Carrefour Data Engineer<br>
+Faz parte do Bootcamp Banco Carrefour Data Engineer<br>
 * [Publicação 01  - Segurança da informacao com Python](https://tinyurl.com/yfbsdyft)
 * [Publicação 02  - Fundamentos de ETL com Python](https://tinyurl.com/yhaxa99p)
 * [Publicação 03  - Monitoramento de clusters Hadoop de alto nivel com HDFS e YARN](https://tinyurl.com/f23jrp7f)
 * [Publicação 04  - Orquestrando ambientes de Big Data distribuidos com Zookeeper, Yarn e Sqoop](https://tinyurl.com/u9bbhn34)
 * [Publicação 05  - Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala](https://tinyurl.com/2hdmakk9)	
-	
+### 33 dia
 
-   
+Faz parte dos Bootcamps: <br><br> 
+✔ Banco Carrefour Data Engineer <br>
+✔ Cognizant Cloud Data Engineer <br>
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-
-
+* [Publicação 01  - Analise de dados com Python e Pandas](https://tinyurl.com/3hymazyx)
+* [Publicação 02  - Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc](https://tinyurl.com/4bu65yux)
+* [Publicação 03  - Trabalhando com visualizacao de dados usando MicroStrategy](https://tinyurl.com/35uwsmm5)
+* [Publicação 04  - Processando grandes conjuntos de dados de forma paralela e distribuida com Spark](https://tinyurl.com/3cfu34p6)
+* [Publicação 05  - Criando pipelines de dados eficientes com Spark e Python](https://tinyurl.com/5w2n5xsd)
 
 <br>
 <br>
