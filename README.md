@@ -128,8 +128,16 @@ Faz parte dos Bootcamps: <br><br>
 * [Publicação 03  - Trabalhando com visualizacao de dados usando MicroStrategy](https://tinyurl.com/35uwsmm5)
 * [Publicação 04  - Processando grandes conjuntos de dados de forma paralela e distribuida com Spark](https://tinyurl.com/3cfu34p6)
 * [Publicação 05  - Criando pipelines de dados eficientes com Spark e Python](https://tinyurl.com/5w2n5xsd)
-
 <br>
+
+
+### 34 dia
+
+Faz parte dos Bootcamp: <br><br> 
+✔ Cognizant Cloud Data Engineer <br>
+<br>
+
+* [Publicação 01  - Explorando o poder do NoSQL com Cassandra e Hbase](https://tinyurl.com/bfcpp3m8)
 <br>
 <br>
 
