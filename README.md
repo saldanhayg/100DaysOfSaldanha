@@ -131,11 +131,8 @@ Faz parte dos Bootcamps: <br><br>
 <br> 
 
 ### 34 dia
-
-Faz parte dos Bootcamp: <br><br> 
-✔ Cognizant Cloud Data Engineer <br>
+Faz parte dos Bootcamp:  ✔ Cognizant Cloud Data Engineer <br>
 * [Publicação 01  - Explorando o poder do NoSQL com Cassandra e Hbase](https://tinyurl.com/bfcpp3m8)
-<br>
 
 ### 35 dia
 * [Publicação 01  - Imersão em Power BI | Leticia Smirelli](https://github.com/saldanhayg/Imersao_Power_BI-Leticia_Smirelli)
