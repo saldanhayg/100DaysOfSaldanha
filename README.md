@@ -45,7 +45,7 @@ E tambem quem sabe ajudar mais alguem com esse projeto pessoal<br>
 * [Publicação 02  - CURSO _ Power BI Desktop: Entendendo as fórmulas DAX](https://github.com/saldanhayg/Power_BI_Entendendo_formulas_DAX)
 * [Publicação 03  - CURSO _ Power BI: Explorando recursos visuais ](https://github.com/saldanhayg/Power_BI_Explorando_recursos_visuais)
 ### 08 dia
-* [Publicação 01  - IMERSÃO _ Power BI - Hastag	Hastag](https://github.com/saldanhayg/Intensivao_Power_BI_Hastag-Treinamentos)
+* [Publicação 01  - IMERSÃO _ Power BI - Hastag	](https://github.com/saldanhayg/Intensivao_Power_BI_Hastag-Treinamentos)
 ### 09 dia
 * [Publicação 01  - CURSO _ Crie um Dashboard em Power BI do ZERO (Caso Prático)	Udemy](https://github.com/saldanhayg/Curso_Power_BI-Pensar)
 ### 10 dia
@@ -128,18 +128,17 @@ Faz parte dos Bootcamps: <br><br>
 * [Publicação 03  - Trabalhando com visualizacao de dados usando MicroStrategy](https://tinyurl.com/35uwsmm5)
 * [Publicação 04  - Processando grandes conjuntos de dados de forma paralela e distribuida com Spark](https://tinyurl.com/3cfu34p6)
 * [Publicação 05  - Criando pipelines de dados eficientes com Spark e Python](https://tinyurl.com/5w2n5xsd)
-<br>
-
+<br> 
 
 ### 34 dia
 
 Faz parte dos Bootcamp: <br><br> 
 ✔ Cognizant Cloud Data Engineer <br>
-<br>
-
 * [Publicação 01  - Explorando o poder do NoSQL com Cassandra e Hbase](https://tinyurl.com/bfcpp3m8)
 <br>
-<br>
+
+### 35 dia
+* [Publicação 01  - Imersão em Power BI | Leticia Smirelli](https://github.com/saldanhayg/Imersao_Power_BI-Leticia_Smirelli)
 
 ## Me siga nas redes sociais
 
